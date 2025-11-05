@@ -13,8 +13,7 @@ The Safety Reasoning Guard Dataset contains reasoning traces generated from open
 The reasoning traces are extracted from DeepSeek-R1, Qwen3-32B, and gpt-oss models using specific prompting strategies and filtering as discussed in the accompanying paper. The dataset includes two types of reasoning traces: full-length and reduced-length (efficient) reasoning traces for optimized inference performance.
 
 - **Language(s) (NLP)**: English
-- **License**: CC-BY-4.0
-
+  
 ### Dataset Sources
 
 - **Paper**: [Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models](https://arxiv.org/abs/2505.20087)
