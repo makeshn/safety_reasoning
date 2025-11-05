@@ -1,6 +1,8 @@
 # Safety Reasoning Dataset
 
-Repository accompanying Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models - EMNLP 2025. We will release the dataset by November 12, 2025 and model on Huggingface by end of the month.
+Repository accompanying Safety Through Reasoning: An Empirical Study of Reasoning Guardrail Models - EMNLP 2025. 
+
+**We will release the dataset by November 12, 2025 and model on Huggingface by end of the month.**
 
 ## Dataset Details
 
